@@ -1,0 +1,45 @@
+English#Which is the past participle form of choose?#Choose#Chose#Chosen#Choosed#C#2 
+ComputerEngineering#___ is NOT a component of a CPU.#Register#Clock#Memory#Control Unit#C#1
+History#Which empire had the most land area in history?#Mongol Empire#Russian Empire#Ottoman Empire#British Empire#D#4
+Mathematics#Sir Isaac Newton invented ___ when he was 24.#Prime Number Theorem#Calculus#Polyhedron Formula#The Perfect Number Theorem#B#3
+Physics#Which particle is a boson?#Proton#Neutron#Electron#Photon#D#5
+English#Do you know antonyms of commissioned?#Closed#Terminated#Finished#Started#B#1
+Computer#__combines internet technology with concept of linked-documents#Browsers#Webservers#URL#Hypertext#d#5
+AuthorsAndBooks#Who wrote 'War and Peace'?#Leo Tolstoy#Charles Dickens#William Shaespeare#William Wordsworth#A#2
+History#How many days in a week were there in ancient Roman times?#8#7#6#5#A#3
+Biology#Other than spreading malaria, anopheles mosquitoes are also vectors of____.#dengue fever#filariasis#encephalities#yellow fever#B#3
+Literature#Who is the writer of 1984 ?#George Orwell#Aldous Huxley#Ray Bradbury#Harper Lee#A#2
+Astronomy#What is that biggest satellite of the Solar System ?#Io#Ganymede#Europa#Callisto#B#3
+Computer#In which memory is the information stored temporarily ?#Memory card #Hard disk#Rom#Ram#D#1
+Computer#Father of ‘C’ programming language#Dennis Ritchie #Prof Jhon Kemeny#Thomas Kurtz #Bill Gates#A#4
+Computer#The lowest form of Computer language is called#BASIC#FORTRAN#Machine Language#COBOL#C#2
+Computer#Program execution time would be minimum if the programs are written in ___#Assembly language#High level language#Machine language#None of the above#C#3
+Computer#An internet like network within a company. The best fit will be ___#Intranet technology resources#Applications of intranets#Intranets#Extranets#C#5
+Computer#HTML is a ___#Internet Language#Programming Language#Markup Language#Artificial Intelligence Language#C#2
+Computer#The error in a program is called ___#bug#lapse#mistake#flaw#A#1
+English#What does the word loquacious mean?#Angry#Chatty#Beatiful#Shy#B#4
+Art#Which of these is a musical instrument?#mandrake#mandalay#mandolin#mandrill#C#2
+Animals#Kangroos are native to which country?#ireland#australia#peru#kenya#B#1
+Laconism#Something in an obvious location is said to be "right under your" ___.#mattress#nose#azaleas#boxer shorts#B#1
+English#She visited Japan ..... 7th July.#in#on#at#-#on#1
+Turkish#Which is synonymous with "farming"?#Science#Philosophy#Culture#Art#C#3
+English#Professionals ___ teachers and lawyers should have good communication skills..#Such like#Such as#As#Like#B#2
+Computer#The first part of a machine language instruction that specifies the operation to be performed is called a(n)___.#Opcode#Operand#Register#Bus#A#3
+Mathematics#An octagon has a total of ___ diagonals.#17#18#19#20#D#2
+Physics#The number .00005600 has ___ sig figs.#4#8#9#2#A#1
+History#Socrates was sentenced to death for ___ .#Stealing#Homicide#Corrupting Athenian youth#Fraud#C#3
+Computer#When and where was Google founded?#1980-New York#1998-California#1991-Illinois#2001-Washington#B#5
+Computer#What key combination is the shortcut for undo on computer?#CTRL+Z#CTRL+Y#SHIFT+Z#ALT+Y#A#2
+Mathematics#Which number is closer to the product of the euler number and the pi number?#6#7#8#9#D#3
+English#Which phrasal verb means cancelling?#Call something off#Turn something off#Make something off#Turn something down#A#4
+English#Which statement is grammatically true?#Why did you leave without me? You must have waited for me#Why did you leave without me? You had to wait for me#Why did you leave without me? You should have waited for me#Why did you leave without me? You should wait for me#C#3
+Computer#Who is also know as the father of Indýan Supercomputing?#Ragunath Mashelkar#Vijay Bhatkar#Jayant Narlikar#Nandan Nilekani#B#5
+English#We arrived _ England two days ago.#to#in#on#at#B#2
+History#American involvement in the Korean War took place in which decade?#1920s#1950s#1970s#1980s#B#4
+History#Who was captain of the Titanic when it sank on April 15, 1912?#Reb Brown#Brain Bloom#Edward Smith#Matthew Mercer#C#5
+History#Rome was founded in which year?#1 BC#251 BC#753 BC#2000 BC#C#5
+Computer#Which of the following is a program file extension in the Windows operating system?#png#txt#exe#xls#C#2
+Mathematics#Which number is not in the Fibonacci Sequence?#21#55#13#35#D#1
+English#What is the longest word in English dictionary?#Pneumonoultramicroscopicsilicovolcanoconiosis#Train#Exaggeration#Selflessness#A#1
+Computer#Which one of these applications is not a game engine?#Unity#Unreal Engine#Eclipse#Godot#C#2
+Computer#Which of the following is not a primary data storage unit?#ADSL#Hard disk#Disket#DVD#A#2
